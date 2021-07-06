@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(68, 68, 68);
+}
+h1 {
+    color: darkblue;
+}
+.text {
+    color: rgb(41, 54, 228);
+    font-size: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    text-shadow: 6;
+}
